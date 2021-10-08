@@ -13,7 +13,7 @@
       <pubDate>Fri, 08 Oct 2021 16:10:50 +0800</pubDate>
       
       <guid>http://example.org/posts/my-first-post/</guid>
-      <description>#第一篇</description>
+      <description>#服务器无法打开后通过改用hugo的extended版本解决 ##网址404无法打开,后发现为GitHubDesktop关联时文件选择错误，通过重新关联解决</description>
     </item>
     
   </channel>
